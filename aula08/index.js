@@ -86,7 +86,7 @@ const nomesComuns = [
 ];
 
 let confereNome;
-confereNome = nomesComuns.includes("Jhon");
+confereNome = nomesComuns.includes("Diego");
 
 if (confereNome) {
   console.log("É, nome comum :P");
